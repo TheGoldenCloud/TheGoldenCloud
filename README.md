@@ -1,6 +1,6 @@
 # Hi👋, Wellcome to my GitHub, my name is Vladimir Jovanovic
 
-<img width=100% src="[https://aifreeimages.com/wp-content/uploads/2023/07/colorvivo_the_universe_RGB_volumetric_shapes_binary_barcode_vib_0a996c39-f41d-4c0b-97ac-f56d7ece4fa8-1024x683.png](https://miro.medium.com/v2/resize:fit:1000/1*lexherbHOejpd_VRTLuzUg.jpeg)"/>
+<img width=100% src="https://miro.medium.com/v2/resize:fit:1000/1*lexherbHOejpd_VRTLuzUg.jpeg"/>
 
  <p>I am Junior JavaScript Developer with a passion for building dynamic and responsive fullstack applications. I thrive on turning creative ideas into functional solutions, constantly exploring and learning to enhance my skills in the ever-evolving world of web development. Let's code together and create something amazing! 💻✨ #CodeEnthusiast #FullstackDeveloper #JavaScriptJourney"</p>
 
