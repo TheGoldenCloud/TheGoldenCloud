@@ -6,8 +6,12 @@
 
 </br>
 
-- 🌱 My goal is to strive growth and enjoy the process, while reaching the goal!  
+- 🌱 My aim is to strive growth and enjoy the process, while reaching the goal!  
 - 😄 Passionate for new adventures and new tasks. 
 - 📫 You can reach me at any of my social media accounts displayed in my profile.
 
+</br>
+
+<p>My experise are: </p>
+[![My Skills](https://skillicons.dev/icons?i=nodejs,figma&theme=light)](https://skillicons.dev)
 <hr>
