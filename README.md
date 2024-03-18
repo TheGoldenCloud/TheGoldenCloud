@@ -12,6 +12,4 @@
 
 </br>
 
-<p>My experise are: </p>
-[![My Skills](https://skillicons.dev/icons?i=bootstrap)](https://skillicons.dev)
 <hr>
