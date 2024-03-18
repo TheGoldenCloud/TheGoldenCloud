@@ -13,5 +13,5 @@
 </br>
 
 <p>My experise are: </p>
-[![My Skills](https://skillicons.dev/icons?i=nodejs,figma&theme=light)](https://skillicons.dev)
+[My Skills](https://skillicons.dev/icons?i=nodejs,figma&theme=light)(https://skillicons.dev)
 <hr>
