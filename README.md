@@ -2,7 +2,7 @@
 
 <img width=100% src="https://miro.medium.com/v2/resize:fit:1000/1*lexherbHOejpd_VRTLuzUg.jpeg"/>
 
- <p>I am JavaScript Developer with a passion for building dynamic and responsive fullstack applications using Node.js and mainly React.js. Also did some Electron apps too! I thrive on turning creative ideas into functional solutions, constantly exploring and learning to enhance my skills in the ever-evolving world of web development programming in general. Let's code together and create something amazing! 💻✨ #CodeEnthusiast #FullstackDeveloper #JavaScriptJourney"</p>
+ <p>Software Engineer focused on building intelligent, full-stack architectures and cross-platform applications. Efficient, scalable, and user-centric solutions. Let’s build the future of software together.</p>
 
 </br>
 
