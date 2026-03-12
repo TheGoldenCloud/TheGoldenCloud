@@ -1,7 +1,7 @@
 # Hi👋 my name is Vladimir Jovanovic 
 
-<img width=100% src="<img width="4300" height="2410" alt="image" src="https://github.com/user-attachments/assets/b2fb4e67-7808-48a8-bfbc-4a617811001c" />
-"/>
+<img width=100% src="https://github.com/user-attachments/assets/b2fb4e67-7808-48a8-bfbc-4a617811001c" />
+
 
  <p>Software Engineer focused on building intelligent, full-stack architectures and cross-platform applications. Efficient, scalable, and user-centric solutions. Let’s build the future of software together.</p>
 
