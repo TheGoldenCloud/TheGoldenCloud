@@ -3,7 +3,7 @@
 <img width=100% src="https://github.com/user-attachments/assets/b2fb4e67-7808-48a8-bfbc-4a617811001c" />
 
 
- <p>Software Engineer focused on building intelligent, full-stack architectures and cross-platform applications. Efficient, scalable, and user-centric solutions. Let’s build the future of software together.</p>
+ <p>Full-Stack & AI Engineer architecting the next generation of software from dynamic web & cross-platform apps to autonomous agent workflows and LLM integrations. Building smart, efficient, and user-centric applications.</p>
 
 </br>
 
